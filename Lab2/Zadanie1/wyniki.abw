@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="89" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-GB; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Mar 15 21:24:13 2016
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">student</m>
+<m key="dc.date">Tue Mar 15 21:03:05 2016
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="6" edit-time="1333" last-saved="1458073453" uid="c5074cc2-eae8-11e5-9214-d3d14ee16423">
+<version id="1" started="1458072185" uid="ee60774c-eae8-11e5-9214-d3d14ee16423" auto="0" top-xid="12"/>
+<version id="6" started="1458072637" uid="e23ca032-eaeb-11e5-91d1-867a303ef4d3" auto="0" top-xid="36"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="11" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr">Długość rekordu: 4<c></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr">Ilość rekordów: 3000<c></c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c></c>User time = 0.914802</p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr">System time = 3.579595<c></c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr">User time = 0.343990<c></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr">System time = 3.186565<c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c></c>----------------------------------------------------------------------------------------------------------------</p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">Długość rekordu 4<c></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">Ilość rekordów 10000<c></c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c>User time = 12.403875</c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c>System time = 42.939577</c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c>User time = 4.505132</c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c>System time = 37.121317</c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c>Długość rekordu: 512</c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c>Ilość rekordów: 3000</c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c>User time = 1.152045</c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c>System time = 3.969130</c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr"><c></c><c>User time = 0.325062</c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr"><c>System time = 3.516106</c></p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c>Długość rekordu: 512</c></p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c>Ilość rekordów: 8000</c></p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr"><c>User time = 7.803965</c></p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr"><c>System time = 30.521738</c></p>
+<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"><c>User time = 2.938949</c></p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr"><c>System time = 28.351417</c></p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr"><c>Długość rekordu: 4096</c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr"><c>Ilość rekordów: 3000</c></p>
+<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr"><c>User time = 0.864169</c></p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr"><c>System time = 4.923636</c></p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr"><c>User time = 0.417656</c></p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr"><c>System time = 5.462774</c></p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="55" props="text-align:left; dom-dir:ltr"><c>Długość rekordu: 4096</c></p>
+<p style="Normal" xid="56" props="text-align:left; dom-dir:ltr"><c>Ilość rekordów: 8000</c></p>
+<p style="Normal" xid="57" props="text-align:left; dom-dir:ltr"><c><pbr/></c></p>
+<p style="Normal" xid="58" props="text-align:left; dom-dir:ltr"><c>User time = 6.303388</c></p>
+<p style="Normal" xid="59" props="text-align:left; dom-dir:ltr"><c>System time = 37.621436</c></p>
+<p style="Normal" xid="62" props="text-align:left; dom-dir:ltr"><c>User time = 2.837501</c></p>
+<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr"><c>System time = 40.739557</c></p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr"><c>Długość rekordu: 8192</c></p>
+<p style="Normal" xid="69" props="text-align:left; dom-dir:ltr"><c>Ilość rekordów: 3000</c></p>
+<p style="Normal" xid="71" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="72" props="text-align:left; dom-dir:ltr"><c>User time = 0.879498</c></p>
+<p style="Normal" xid="73" props="text-align:left; dom-dir:ltr"><c>System time = 9.197698</c></p>
+<p style="Normal" xid="75" props="text-align:left; dom-dir:ltr"><c>User time = 0.422650</c></p>
+<p style="Normal" xid="76" props="text-align:left; dom-dir:ltr"><c>System time = 9.087740</c></p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr"><c>Długość rekordu: 8192</c></p>
+<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr"><c>Ilość rekordów: 8000</c></p>
+<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr"><c>User time = 5.408863</c></p>
+<p style="Normal" xid="82" props="text-align:left; dom-dir:ltr"><c>System time = 61.072709</c></p>
+<p style="Normal" xid="87" props="text-align:left; dom-dir:ltr"><c>User time = 2.919110</c></p>
+<p style="Normal" xid="88" props="text-align:left; dom-dir:ltr"><c>System time = 65.243917</c></p>
+<p style="Normal" xid="89" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">----------------------------------------------------------------------------------------------------------------</c></p>
+<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="84" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="86" props="text-align:left; dom-dir:ltr"><c>Wnioski:<br/>- zwiększenie długości rekordu kilkudziesięciokrotnie nieznacznie wpłynie na długość wykonywania programu, co wydaje się logiczne, bo wzięciu pod uwagę, że porównywany jest przecież tylko pierwszy znak rekordu. Różnica czasów wykonania zależy więc od szybkości pamięci, a nie algorytmu. Różnica ta nie jest tak duża, aczkolwiek jest wystarczająco widoczna, by brać ją pod uwagę w przyszłych programach.<br/>- stosowanie funkcji bibliotecznych jest wyraźnie wolneijsze od systemowych dla rekordów o niewielkich rozmiarach, jednak gdy zwiększymy długość rekordu ich zastosowanie okazuje sie szybsze.</c></p>
+<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="70" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="64" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="60" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c></c></p>
+</section>
+</abiword>

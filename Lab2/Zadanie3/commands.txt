@@ -1,0 +1,2 @@
+chmod g+s,g-x file
+sudo mount -oremount,mand /
