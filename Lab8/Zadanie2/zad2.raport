@@ -1,0 +1,38 @@
+Marcin Lason - labolatorium 8
+Zadanie A:
+
+1.
+SIGTERM - Terminated, wszystkie watki zostaly zabite
+SIGUSR1 - "User defined signal 1", wszystkie watki zostaly zabite
+SIGKILL - Killed, wszystkie watki zostaly zabite
+SIGSTOP - Stopped, wszystkie watki zostaly zastopowane
+2.
+SIGTERM - brak reakcji ze strony watkow, kontynuuja swoja prace
+SIGUSR1 - brak reakcji ze strony watkow, kontynuuja swoja prace
+SIGKILL - Killed, poniewaz sygnal niemaskowalny
+SIGSTOP - Stopped, poniewaz sygnal niemaskowalny
+3.
+SIGTERM - komunikat o zlapaniu sygnalu przez glowny watek procesu, pozostale watki kontynuuja swoja prace
+SIGUSR1 - komunikat o zlapaniu sygnalu przez glowny watek procesu, pozostale watki kontynuuja swoja prace
+SIGKILL - Killed, poniewaz sygnal nie moze byc zlapany
+SIGSTOP - Stopped, poniewaz sygnal nie moze byc zlapany
+4.
+SIGTERM - brak reakcji, wszystkie watki nadal pracuja
+SIGUSR1 - brak reakcji, wszystkie watki nadal pracuja
+SIGKILL - Killed, poniewaz sygnal niemaskowalny
+SIGSTOP - Stopped, poniewaz sygnal niemaskowalny
+5.
+SIGTERM - komunikat o zlapaniu sygnalu, watki kontynuuja swoja prace
+SIGUSR1 - komunikat o zlapaniu sygnalu, watki kontynuuja swoja prace
+SIGKILL - Killed, poniewaz sygnal nie moze byc zlapany
+SIGSTOP - Stopped, poniewaz sygnal nie moze byc zlapany
+
+
+Zadanie B:
+Komunikat: floating point exception (core dumped)
+Wszystkie watki i proces zostaja zabite.
+
+
+Linux fedora 4.3.5-300.fc23.x86_64 #1 SMP 
+Mon Feb 1 03:18:41 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
