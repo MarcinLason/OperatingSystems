@@ -13,3 +13,17 @@ Creating some child processes tree to calculate amount of regular files in file 
 
 Lab4:
 Navigating of the program execution using signals. Sending and receiving signals between two working programs. Disadvantages of simple using kill and signal. Improving program by using real time signals, sigqueue and sigaction.
+
+Lab5:
+Using pipes to create program working like linux command: tr '[:lower:]' '[:upper:]' | fold -w N.
+Creating client and server who communicates using FIFO. 
+Using pipes to create program working like linux command: ls -l | grep ^d > OUTPUT
+
+Lab6:
+Creating server who sends to all clients random numbers. Clients resends to him information if the number is prime. Communication is built on queues of communicates. (In first exercise - System V standard, in second - POSIX standard).
+
+Lab7:
+
+Lab8:
+
+Lab9:
